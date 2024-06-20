@@ -1,0 +1,6 @@
+@FreeApi_HostAddress = http://localhost:5282
+
+GET {{FreeApi_HostAddress}}/ExchangeRatesData/
+Accept: application/json
+
+###
